@@ -1,6 +1,6 @@
 # Telecom-Customer-Segmentation-Churn-Analysis
 
-# Project Object :
+# Project Objective :
    To analyze and segment telecom customers to understand the key factors contributing to customer churn, and identify actionable insights that can help reduce churn and improve customer retention.
 
 # Column in Dataset :
